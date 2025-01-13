@@ -12,37 +12,38 @@ redirect_from:
 
 EDUCATION
 ======
-### BSc Statistics in Beijing Normal University-Hong Kong Baptist University United International College (UIC), 09/2021-06/2025
+##### BSc Statistics in Beijing Normal University-Hong Kong Baptist University United International College (UIC), 09/2021-06/2025
 * Notable Courses: Real Analysis, Survival Analysis, Data Mining, Time Series Analysis, Statistical Computing, Multivariate Analysis, Categorical Data Analysis, Experimental Design, Applied Stochastic Process, Network and Transportation Models, Advanced Statistics, Advanced Probability, Optimization, Linear Programming and Integer Programming, Regression Analysis, General Biology
 * GPA: 3.72/4.0, Ranking: 6/94
 * Dissertation: Prediction of response to chemotherapy via patient-derived tumor organiods test
 
-### University of Oxford, Data Science (150 Hours), Academic Summer School, 08/2022
+##### University of Oxford, 08/2022
+* Data Science (150 Hours), Academic Summer School
 
 
 RESEARCH PROJECTS
 ======
-### Prediction of Response to Chemotherapy via Patient-derived Tumor Organiods Test, 10/2023-present
+##### Prediction of Response to Chemotherapy via Patient-derived Tumor Organiods Test, 10/2023-present
 * Supervisors: Ping He and Xiaoling Peng, UIC
 * Engaged in the design and implementation of experimental protocols using patient-derived tumor
 organoids to predict chemotherapy response.
 * Responsible for the statistical analysis of data, interpretation of results, and the development of a predictive
 algorithm to guide personalized treatment strategies for cancer patients.
 
-### Statistical Computing in Research, 01/2024-08/2024
+##### Statistical Computing in Research, 01/2024-08/2024
 * Supervisor: Divakaran Liginlal, Carnegie Mellon University
 * Conducted independent research using techniques including descriptive statistics, statistical inference, hypothesis testing, regression analysis and machine learning.
 * Examined whether dimensionality reduction and machine learning can be synergistically used to enhance
 the efficiency and security of intrusion detection systems and completed a research report.
 
-### Time Series Analysis, 05/2024-06/2024
+##### Time Series Analysis, 05/2024-06/2024
 * Supervisor: Bohai Zhang, UIC
 * Conducted SARIMA (Seasonal Autoregressive Integrated Moving Average) model and LSTM (Long
 Short-Term Memory) model for weather forecasting.
 * Compared among the models with different parameters based on metrics, such as AIC, BIC and Ljung-Box
 statistics.
 
-### Application of Logistic Regression in Airline Satisfaction, 11/2023-12/2023
+##### Application of Logistic Regression in Airline Satisfaction, 11/2023-12/2023
 * Supervisor: Xiaoling Peng, UIC
 * Conducted cross tabulation to find relationship of variables; Used chi-square test to indicate how well the
 logistic regression model fits the data; Estimate logistic regression coefficients.
@@ -52,7 +53,7 @@ customer service, with on-time performance being the most significant predictor.
 
 INTERNSHIP
 ======
-### Bayer China, 01/2024-05/2024
+##### Bayer China, 01/2024-05/2024
 * Position: Biostatistics Analyst
 * Performed z-tests and t-tests using the BSDA package in R to assess whether the substance content in a
 drug meets required standards based on limited sample data, providing interpretations of the results.
@@ -64,7 +65,7 @@ survival using Kaplan-Meier curves and log-rank tests.
 * Utilized Python to develop a deep learning model for an AI-assisted medical system to classify brain CT
 scans, focusing on tumor and cerebrovascular conditions.
 
-### Guangdong Kexinan Information Technology Co., Ltd, 06/2022-07/2022
+##### Guangdong Kexinan Information Technology Co., Ltd, 06/2022-07/2022
 * Position: Network Security Intern
 * Assisted in preparing reports on security vulnerabilities and violations.
 * Assisted in financial data analysis, creating spreadsheets and updating financial reports.
