@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-EDUCATION
+#EDUCATION
 ======
 ### BSc Statistics in Beijing Normal University-Hong Kong Baptist University United International College (UIC), 09/2021-06/2025
 * Notable Courses: Real Analysis, Survival Analysis, Data Mining, Time Series Analysis, Statistical Computing, Multivariate Analysis, Categorical Data Analysis, Experimental Design, Applied Stochastic Process, Network and Transportation Models, Advanced Statistics, Advanced Probability, Optimization, Linear Programming and Integer Programming, Regression Analysis, General Biology
@@ -21,7 +21,7 @@ EDUCATION
 * Data Science (150 Hours), Academic Summer School
 
 
-RESEARCH PROJECTS
+#RESEARCH PROJECTS
 ======
 ### Prediction of Response to Chemotherapy via Patient-derived Tumor Organiods Test, 10/2023-present
 * Supervisors: Ping He and Xiaoling Peng, UIC
@@ -51,7 +51,7 @@ logistic regression model fits the data; Estimate logistic regression coefficien
 customer service, with on-time performance being the most significant predictor.
 
 
-INTERNSHIP
+#INTERNSHIP
 ======
 ### Bayer China, 01/2024-05/2024
 * Position: Biostatistics Analyst
@@ -72,20 +72,20 @@ scans, focusing on tumor and cerebrovascular conditions.
 * Supported administrative tasks.
 
 
-Publications
+#Publications
 ======
 Zhang, Z., Chen, H. & Shen, J. (Accepted) Can dimensionality reduction combined with machine learning result
 in more efficient intrusion detection systems? International Conference on Applied Physics and Mathematical
 Modeling, September 20, 2024. Chicago, USA
   
-Skills
+#Skills
 ======
 * Technical: Python, C, R, Lingo, MATLAB, HTML, CSS
 * Platforms/Software: MySQL, RStudio, PyCharm, CLion,Unity3D, OpenCV, Jupyter, Visual Studio Code, LaTeX, SPSS
 * Languages: Mandarin (Native), Cantonese (Native), English (Fluent, TOEFL 102, IELTS 7.0), German (A1)
 
   
-HONOURS/AWARDS
+#HONOURS/AWARDS
 ======
 * Second Class Award Scholarship, 2024
 * First Class Award Scholarship, 2023
