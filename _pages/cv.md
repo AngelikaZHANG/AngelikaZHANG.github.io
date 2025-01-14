@@ -11,7 +11,7 @@ redirect_from:
 
 
 #EDUCATION
-======
+
 ### BSc Statistics in Beijing Normal University-Hong Kong Baptist University United International College (UIC), 09/2021-06/2025
 * Notable Courses: Real Analysis, Survival Analysis, Data Mining, Time Series Analysis, Statistical Computing, Multivariate Analysis, Categorical Data Analysis, Experimental Design, Applied Stochastic Process, Network and Transportation Models, Advanced Statistics, Advanced Probability, Optimization, Linear Programming and Integer Programming, Regression Analysis, General Biology
 * GPA: 3.72/4.0, Ranking: 6/94
