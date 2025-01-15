@@ -83,7 +83,7 @@ Modeling, September 20, 2024. Chicago, USA
 ## Skills
 * Technical: Python, C, R, Lingo, MATLAB, HTML, CSS
 * Platforms/Software: MySQL, RStudio, PyCharm, CLion,Unity3D, OpenCV, Jupyter, Visual Studio Code, LaTeX, SPSS
-* Languages: Mandarin (Native), Cantonese (Native), English (Fluent, TOEFL 102/IELTS 7.0), German (A1)
+* Languages: Mandarin (Native), Cantonese (Native), English (Fluent, TOEFL 102 / IELTS 7.0), German (A1)
 
 
 
