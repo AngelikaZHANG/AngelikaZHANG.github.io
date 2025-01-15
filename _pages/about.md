@@ -12,4 +12,4 @@ I am Zhiqing ZHANG (Angelika), a year four undergraduate student from [Faculty o
 
 My research interest includes Dose-Response Analysis, DNA Sequencing Data Analysis, Machine Learning, and Deep Learning.
 
-You can find my CV here: [Zhiqing ZHANG's Curriculum Vitae](../assets/CurriculumVitae.pdf).
+You can find my CV here: [Zhiqing ZHANG's Curriculum Vitae](../assets/ZZQCV.pdf).
