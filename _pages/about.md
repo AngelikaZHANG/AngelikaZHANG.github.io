@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhiqing ZHANG (Angelika), a year four undergraduate student from [Faculty of Science and Technology](https://fst.uic.edu.cn/), [Beijing Normal University - Hong Kong Baptist University United International College](https://www.uic.edu.cn/).
+I am Zhiqing ZHANG (Angelika), a graduate student major in Biostatistics from [School of Public Health](https://ysph.yale.edu/), [Yale University](https://www.yale.edu/).
 
-My research interest includes Dose-Response Analysis, Machine Learning, and Deep Learning.
+My research interest includes genomics data analysis, genome sequencing analysis, dose-response analysis, machine learning, and deep learning.
 
 You can find my CV here: [Zhiqing ZHANG's Curriculum Vitae](../assets/ZZQCV.pdf).
