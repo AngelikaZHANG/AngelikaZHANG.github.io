@@ -12,7 +12,7 @@ redirect_from:
 
 
 ## EDUCATION
-### BSc Statistics in Beijing Normal University-Hong Kong Baptist University United International College (UIC), 09/2021-06/2025
+### BSc (Honours) Statistics (First Class) in Beijing Normal-Hong Kong Baptist University (BNBU), 09/2021-07/2025
 * Notable Courses: Real Analysis, Survival Analysis, Data Mining, Time Series Analysis, Statistical Computing, Multivariate Analysis, Categorical Data Analysis, Experimental Design, Applied Stochastic Process, Network and Transportation Models, Advanced Statistics, Advanced Probability, Optimization, Linear Programming and Integer Programming, Regression Analysis, General Biology
 * GPA: 3.72/4.0, Ranking: 6/94
 * Dissertation: Prediction of response to chemotherapy via patient-derived tumor organiods test
@@ -23,8 +23,8 @@ redirect_from:
 
 
 ## RESEARCH PROJECTS
-### Prediction of Response to Chemotherapy via Patient-derived Tumor Organiods Test, 10/2023-present
-* Supervisors: Ping He and Xiaoling Peng, UIC
+### Prediction of Response to Chemotherapy via Patient-derived Tumor Organiods Test, 10/2023-12/2024
+* Supervisors: Ping He and Xiaoling Peng, BNBU
 * Engaged in the design and implementation of experimental protocols using patient-derived tumor
 organoids to predict chemotherapy response.
 * Responsible for the statistical analysis of data, interpretation of results, and the development of a predictive
@@ -37,14 +37,14 @@ algorithm to guide personalized treatment strategies for cancer patients.
 the efficiency and security of intrusion detection systems and completed a research report.
 
 ### Time Series Analysis, 05/2024-06/2024
-* Supervisor: Bohai Zhang, UIC
+* Supervisor: Bohai Zhang, BNBU
 * Conducted SARIMA (Seasonal Autoregressive Integrated Moving Average) model and LSTM (Long
 Short-Term Memory) model for weather forecasting.
 * Compared among the models with different parameters based on metrics, such as AIC, BIC and Ljung-Box
 statistics.
 
 ### Application of Logistic Regression in Airline Satisfaction, 11/2023-12/2023
-* Supervisor: Xiaoling Peng, UIC
+* Supervisor: Xiaoling Peng, BNBU
 * Conducted cross tabulation to find relationship of variables; Used chi-square test to indicate how well the
 logistic regression model fits the data; Estimate logistic regression coefficients.
 * Concluded that all assessed service dimensions positively influenced customer satisfaction, except for
@@ -53,6 +53,12 @@ customer service, with on-time performance being the most significant predictor.
 
 
 ## INTERNSHIP
+### International School, Guangzhou Nanfang College, 03/2025
+* Position: Teaching Assistant
+* Assisted in the delivery of statistics courses by tutoring students in English and providing academic
+support, with a total tutorial session duration of 16 hours.
+* Prepared course materials, collecting feedback from students and participated in seminars.
+
 ### Bayer China, 01/2024-05/2024
 * Position: Biostatistics Analyst
 * Performed z-tests and t-tests using the BSDA package in R to assess whether the substance content in a
@@ -88,6 +94,7 @@ Modeling, September 20, 2024. Chicago, USA
 
 
 ## HONOURS/AWARDS
+* Best Paper Award, ICICR2025, 2025
 * Second Class Award Scholarship, 2024
 * First Class Award Scholarship, 2023
 * First Class Award Scholarship, 2022
