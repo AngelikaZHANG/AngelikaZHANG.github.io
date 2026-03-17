@@ -12,4 +12,4 @@ I am Zhiqing ZHANG (Angelika), a graduate student major in Biostatistics from [S
 
 My research interest includes statistical genetics, dose-response analysis, machine learning, and deep learning.
 
-You can find my CV here: [Zhiqing ZHANG's Curriculum Vitae](../assets/Zhiqing_Zhang_Final.pdf).
+You can find my CV here: [Zhiqing ZHANG's Curriculum Vitae](../assets/Zhiqing_Zhang_Final.pdf/).
