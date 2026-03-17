@@ -12,14 +12,20 @@ redirect_from:
 
 
 ## EDUCATION
-### BSc (Honours) Statistics (First Class) in Beijing Normal-Hong Kong Baptist University (BNBU), 09/2021-07/2025
-* Notable Courses: Real Analysis, Survival Analysis, Data Mining, Time Series Analysis, Statistical Computing, Multivariate Analysis, Categorical Data Analysis, Experimental Design, Applied Stochastic Process, Network and Transportation Models, Advanced Statistics, Advanced Probability, Optimization, Linear Programming and Integer Programming, Regression Analysis, General Biology
+### Yale University — MPH Biostatistics (08/2025-05/2027)
+* Relevant Coursework: Statistical Methods in Computational Biology; Applied Artificial Intelligence in
+Healthcare; Applied Machine Learning and Causal Inference; Longitudinal and Multilevel Data Analysis;
+Advanced Regression Models
+
+### Beijing Normal-Hong Kong Baptist University (BNBU) — BSc (Honours) Statistics (First Class) (09/2021-07/2025)
+* Relevant Coursework: Real Analysis; Survival Analysis; Data Mining; Time Series Analysis; Statistical
+Computing; Multivariate Analysis; Categorical Data Analysis; Experimental Design; Applied Stochastic
+Process; Network and Transportation Models; Advanced Statistics; Advanced Probability; Optimization;
+Linear Programming and Integer Programming; Regression Analysis; General Biology
 * GPA: 3.72/4.0, Ranking: 6/94
 * Dissertation: Prediction of response to chemotherapy via patient-derived tumor organiods test
 
-### University of Oxford, 08/2022
-* Data Science (150 Hours), Academic Summer School
-
+### University of Oxford — Data Science Summer School (150 Hours, 08/2022)
 
 
 ## RESEARCH PROJECTS
@@ -80,16 +86,15 @@ scans, focusing on tumor and cerebrovascular conditions.
 
 
 ## Publications
-Zhang, Z., Chen, H. & Shen, J. (Accepted) Can dimensionality reduction combined with machine learning result
-in more efficient intrusion detection systems? International Conference on Applied Physics and Mathematical
-Modeling, September 20, 2024. Chicago, USA
+Zhang, Z., Chen, H. & Shen, J. Applying machine learning combined with dimensionality
+reduction to enhance intrusion detection. ICICR2025, May 16-18, 2025.
 
 
 
 ## Skills
 * Technical: Python, C, R, Lingo, MATLAB, HTML, CSS
-* Platforms/Software: MySQL, RStudio, PyCharm, CLion,Unity3D, OpenCV, Jupyter, Visual Studio Code, LaTeX, SPSS
-* Languages: Mandarin (Native), Cantonese (Native), English (Fluent, TOEFL 102 / IELTS 7.0), German (A1)
+* Platforms/Software: MySQL, RStudio, PyCharm, CLion,Unity3D, OpenCV, Jupyter, Visual Studio Code, LaTeX, SPSS, PLINK
+* Languages: Mandarin (Native), Cantonese (Native), English (Fluent), German (A1)
 
 
 
