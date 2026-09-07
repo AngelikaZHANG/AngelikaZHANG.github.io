@@ -8,8 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhiqing ZHANG (Angelika), a graduate student major in Biostatistics from [School of Public Health](https://ysph.yale.edu/), [Yale University](https://www.yale.edu/).
+# Hi, I'm Zhiqing (Angelika) Zhang
 
-My research interest includes statistical genetics, dose-response analysis, machine learning, and deep learning.
+I am an MPH student in **Biostatistics** at the [Yale School of Public Health](https://ysph.yale.edu/), [Yale University](https://www.yale.edu/).
 
-You can find my CV here: [Zhiqing ZHANG's Curriculum Vitae](../assets/FULL.pdf/).
+My research interests are in **statistical genetics, computational genomics, multi-omics integration, and machine learning for biomedical data**. I am particularly interested in using statistical and computational methods to study genetic regulation and molecular heterogeneity in complex diseases.
+
+## Research interests
+
+- Statistical genetics and genetic association analysis
+- Computational genomics and bioinformatics
+- Multi-omics integration
+- Regulatory genomics
+- Machine learning for biomedical data
+
+## Current work
+
+I am currently working on computational analysis of Alzheimer's disease multi-omics data, integrating transcriptomic, epigenomic, and genetic information to study disease-related molecular programs and regulatory variation.
+
+## Links
+
+- [Curriculum Vitae](../assets/FULL.pdf)
+- [ORCID](https://orcid.org/0009-0003-1035-6588)
+- [Yale School of Public Health](https://ysph.yale.edu/)
