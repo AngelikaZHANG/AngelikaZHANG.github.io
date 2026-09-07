@@ -30,4 +30,4 @@ My current research focuses on statistical and computational methods for integra
 
 - [Curriculum Vitae](../assets/FULL.pdf)
 - [ORCID](https://orcid.org/0009-0003-1035-6588)
-- [Yale School of Public Health](https://ysph.yale.edu/)
+
