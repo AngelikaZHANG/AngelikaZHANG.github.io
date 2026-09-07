@@ -24,7 +24,7 @@ My research interests are in **statistical genetics, computational genomics, mul
 
 ## Current work
 
-I am currently working on computational analysis of Alzheimer's disease multi-omics data, integrating transcriptomic, epigenomic, and genetic information to study disease-related molecular programs and regulatory variation.
+My current research focuses on statistical and computational methods for integrating multi-omics and genetic data in neurodegenerative disease.
 
 ## Links
 
